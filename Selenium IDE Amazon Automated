@@ -1,0 +1,253 @@
+{
+  "id": "606b93c6-4f60-4655-b77c-74f4be3db8d8",
+  "version": "2.0",
+  "name": "amazon",
+  "url": "https://www.amazon.com",
+  "tests": [{
+    "id": "9179157b-e9d0-4ad7-98ea-9739857c1985",
+    "name": "amazon",
+    "commands": [{
+      "id": "e80a8599-a153-4d1e-854e-a56848b11ccc",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "b87609b1-3525-4ebb-be06-c01e02202dd2",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1550x830",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "56a7d508-af89-447e-bf72-244f7b76f9f1",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,492.79998779296875)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "249b4048-35d5-48f6-b628-332e50bca632",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,492.79998779296875)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "ac0637aa-a74a-431e-ac52-831b19f5ff18",
+      "comment": "",
+      "command": "click",
+      "target": "css=.a-section > .a-image-container > img",
+      "targets": [
+        ["css=.a-section > .a-image-container > img", "css:finder"],
+        ["xpath=//img[@alt='Amazon Kids Fire Tablets']", "xpath:img"],
+        ["xpath=//div[@id='CardInstance5z_V6-X6_1JEeD6XU0a5DA']/div[2]/div/a/div/div/div/img", "xpath:idRelative"],
+        ["xpath=//a/div/div/div/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "4ed7f02d-ce92-4159-8e8f-780e9d9b5f69",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.a-list-normal:nth-child(4) .a-link-normal > .a-section",
+      "targets": [
+        ["css=.a-list-normal:nth-child(4) .a-link-normal > .a-section", "css:finder"],
+        ["xpath=//div[@id='octopus-dlp-asin-stream']/ul/li[4]/span/div/div/a/div", "xpath:idRelative"],
+        ["xpath=//li[4]/span/div/div/a/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "a8b66eb5-52af-4cb2-af55-f3347305016b",
+      "comment": "",
+      "command": "click",
+      "target": "css=.a-list-normal:nth-child(4) .a-link-normal > .a-section",
+      "targets": [
+        ["css=.a-list-normal:nth-child(4) .a-link-normal > .a-section", "css:finder"],
+        ["xpath=//div[@id='octopus-dlp-asin-stream']/ul/li[4]/span/div/div/a/div", "xpath:idRelative"],
+        ["xpath=//li[4]/span/div/div/a/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "49a65832-3884-493a-8dce-ba64a9940d0c",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.a-carousel-card:nth-child(2) .a-dynamic-image",
+      "targets": [
+        ["css=.a-carousel-card:nth-child(2) .a-dynamic-image", "css:finder"],
+        ["xpath=//img[@alt='Amazon Fire 7 Kids Tablet (2022) - age 3-7. Included ad-free content and case, parental controls, 10-hour battery, 32 GB, Pur']", "xpath:img"],
+        ["xpath=//div[@id='anonCarousel1']/ol/li[2]/div/a/div/img", "xpath:idRelative"],
+        ["xpath=//li[2]/div/a/div/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "cc2c3422-83cc-4b0b-80fc-525dfc92de98",
+      "comment": "",
+      "command": "click",
+      "target": "css=.a-carousel-card:nth-child(2) .a-dynamic-image",
+      "targets": [
+        ["css=.a-carousel-card:nth-child(2) .a-dynamic-image", "css:finder"],
+        ["xpath=//img[@alt='Amazon Fire 7 Kids Tablet (2022) - age 3-7. Included ad-free content and case, parental controls, 10-hour battery, 32 GB, Pur']", "xpath:img"],
+        ["xpath=//div[@id='anonCarousel1']/ol/li[2]/div/a/div/img", "xpath:idRelative"],
+        ["xpath=//li[2]/div/a/div/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d8b35f3c-63be-4c8a-9959-706f7cac6cfb",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "css=.a-carousel-card:nth-child(2) .a-dynamic-image",
+      "targets": [
+        ["css=.a-carousel-card:nth-child(2) .a-dynamic-image", "css:finder"],
+        ["xpath=//img[@alt='Amazon Fire 7 Kids Tablet (2022) - age 3-7. Included ad-free content and case, parental controls, 10-hour battery, 32 GB, Pur']", "xpath:img"],
+        ["xpath=//div[@id='anonCarousel1']/ol/li[2]/div/a/div/img", "xpath:idRelative"],
+        ["xpath=//li[2]/div/a/div/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "9d8134e7-d32e-41f5-8b36-6657656d908a",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,1981.199951171875)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "58acb961-c5c9-45e9-bbeb-658477401b86",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.a-carousel-card:nth-child(4) .a-dynamic-image",
+      "targets": [
+        ["css=.a-carousel-card:nth-child(4) .a-dynamic-image", "css:finder"],
+        ["xpath=//img[@alt='Kid-Proof Case for Fire 7 Tablet (Compatible with 9th Generation Tablet, 2019 Release), Purple']", "xpath:img"],
+        ["xpath=//div[@id='anonCarousel1']/ol/li[4]/div/a/div/img", "xpath:idRelative"],
+        ["xpath=//li[4]/div/a/div/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "0b32ad60-a85c-4d8a-bbc8-bdfa369100ec",
+      "comment": "",
+      "command": "click",
+      "target": "css=.a-carousel-card:nth-child(4) .a-dynamic-image",
+      "targets": [
+        ["css=.a-carousel-card:nth-child(4) .a-dynamic-image", "css:finder"],
+        ["xpath=//img[@alt='Kid-Proof Case for Fire 7 Tablet (Compatible with 9th Generation Tablet, 2019 Release), Purple']", "xpath:img"],
+        ["xpath=//div[@id='anonCarousel1']/ol/li[4]/div/a/div/img", "xpath:idRelative"],
+        ["xpath=//li[4]/div/a/div/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "eca90a8b-24c9-4a03-a160-684d1d4b650c",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,460)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "44604ef3-5456-4bbb-a613-bf4fb335f3b7",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,1595.199951171875)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "ae1dbdbc-5757-48e0-b66b-aa80a5803ff4",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,718.4000244140625)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "8376961f-8f0a-4e28-8eeb-3c0700b52ecc",
+      "comment": "",
+      "command": "click",
+      "target": "css=.a-carousel-card:nth-child(1) .a-dynamic-image",
+      "targets": [
+        ["css=.a-carousel-card:nth-child(1) .a-dynamic-image", "css:finder"],
+        ["xpath=//img[@alt='Amazon Fire 7 tablet, 7” display, 32 GB, 10 hours battery life, light and portable for entertainment at home or on-the-go, (2']", "xpath:img"],
+        ["xpath=//div[@id='anonCarousel1']/ol/li/div/a/div/img", "xpath:idRelative"],
+        ["xpath=//a/div/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c14edd14-5da2-4e23-bcea-16c5d04a7e1a",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,1971.199951171875)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "17374f9d-e8a3-4adc-9898-f454e28b92c7",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.a-carousel-card:nth-child(6) .a-dynamic-image",
+      "targets": [
+        ["css=.a-carousel-card:nth-child(6) .a-dynamic-image", "css:finder"],
+        ["xpath=//img[@alt='Fire 7 Tablet Case (Compatible with 9th Generation, 2019 Release), Twilight Blue']", "xpath:img"],
+        ["xpath=//div[@id='anonCarousel1']/ol/li[6]/div/a/div/img", "xpath:idRelative"],
+        ["xpath=//li[6]/div/a/div/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c76c385e-5100-42f9-a722-af46f9386276",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "css=.a-carousel-card:nth-child(6) .a-dynamic-image",
+      "targets": [
+        ["css=.a-carousel-card:nth-child(6) .a-dynamic-image", "css:finder"],
+        ["xpath=//img[@alt='Fire 7 Tablet Case (Compatible with 9th Generation, 2019 Release), Twilight Blue']", "xpath:img"],
+        ["xpath=//div[@id='anonCarousel1']/ol/li[6]/div/a/div/img", "xpath:idRelative"],
+        ["xpath=//li[6]/div/a/div/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "16c2e0ba-7975-431d-bf7d-4d080eae50f0",
+      "comment": "",
+      "command": "click",
+      "target": "css=#a-autoid-23 .a-icon",
+      "targets": [
+        ["css=#a-autoid-23 .a-icon", "css:finder"],
+        ["xpath=//a[@id='a-autoid-23']/span/i", "xpath:idRelative"],
+        ["xpath=//div[2]/div/div[3]/a/span/i", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "fc49f496-a89d-47b3-a20f-b63cc4936156",
+      "comment": "",
+      "command": "click",
+      "target": "css=.a-carousel-card:nth-child(3) .a-dynamic-image",
+      "targets": [
+        ["css=.a-carousel-card:nth-child(3) .a-dynamic-image", "css:finder"],
+        ["xpath=//img[@alt='Amazon Fire HD 10 tablet, 10.1\", 1080p Full HD, 32 GB, latest model (2021 release), Black']", "xpath:img"],
+        ["xpath=//div[@id='anonCarousel1']/ol/li[3]/div/a/div/img", "xpath:idRelative"],
+        ["xpath=//li[3]/div/a/div/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "384a6eb8-da36-4773-b8dc-d4c0fa261d46",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "id=askATFLink",
+      "targets": [
+        ["id=askATFLink", "id"],
+        ["linkText=1000+ answered questions", "linkText"],
+        ["css=#askATFLink", "css:finder"],
+        ["xpath=//a[@id='askATFLink']", "xpath:attributes"],
+        ["xpath=//div[@id='ask_feature_div']/span[2]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '#Ask')]", "xpath:href"],
+        ["xpath=//div[6]/span[2]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'1000+ answered questions')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "7f470754-d42d-4c70-87c5-3f673a84a66d",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["9179157b-e9d0-4ad7-98ea-9739857c1985"]
+  }],
+  "urls": ["https://www.amazon.com/"],
+  "plugins": []
+}
