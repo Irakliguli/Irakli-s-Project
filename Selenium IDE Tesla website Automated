@@ -1,0 +1,206 @@
+{
+  "id": "c35be960-851b-453f-81a6-bc1c1302acb4",
+  "version": "2.0",
+  "name": "Tesla ",
+  "url": "https://www.tesla.com/",
+  "tests": [{
+    "id": "96008534-0890-4b89-b976-82c5f66e137d",
+    "name": "Tesla ",
+    "commands": [{
+      "id": "a643d512-cead-4b90-b98e-f6734780c728",
+      "comment": "",
+      "command": "open",
+      "target": "https://www.tesla.com/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "632a727d-929d-4231-a973-c1d3187811ad",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "921x581",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "511e0ed9-7395-4b5a-8682-d73bd76d524c",
+      "comment": "",
+      "command": "click",
+      "target": "css=.tds-site-nav-item-text",
+      "targets": [
+        ["css=.tds-site-nav-item-text", "css:finder"],
+        ["xpath=//header[@id='tds-site-header']/ol/li/button/span", "xpath:idRelative"],
+        ["xpath=//button/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Menu')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "f911a6e1-6f29-4d58-937e-b5154344d1ff",
+      "comment": "",
+      "command": "click",
+      "target": "css=.tds-site-nav-items--vertical > li:nth-child(1) .tds-site-nav-item-text",
+      "targets": [
+        ["css=.tds-site-nav-items--vertical > li:nth-child(1) .tds-site-nav-item-text", "css:finder"],
+        ["xpath=//div[@id='tds-global-menu']/dialog/section/ol/li/a/span", "xpath:idRelative"],
+        ["xpath=//li/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Model S')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "331b48e4-61ab-47e4-af07-3973bf8db917",
+      "comment": "",
+      "command": "click",
+      "target": "css=.tds-align--center > li:nth-child(3) .tds-site-nav-item-text",
+      "targets": [
+        ["css=.tds-align--center > li:nth-child(3) .tds-site-nav-item-text", "css:finder"],
+        ["xpath=//header[@id='tds-site-header']/ol/li[3]/a/span", "xpath:idRelative"],
+        ["xpath=//li[3]/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Model X')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "cbb09f17-945d-4c47-b2ff-9d7c1e29e374",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,361.6000061035156)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "6482783b-e176-49e1-bdcb-0c9955a89172",
+      "comment": "",
+      "command": "click",
+      "target": "css=.tds-btn--primary:nth-child(1) > span",
+      "targets": [
+        ["css=.tds-btn--primary:nth-child(1) > span", "css:finder"],
+        ["xpath=//section[@id='tesla-hero-4239']/div[2]/div/section/div/section/a/span", "xpath:idRelative"],
+        ["xpath=//section/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Order Now')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "1f318276-e789-46b6-8484-e88c24daffde",
+      "comment": "",
+      "command": "click",
+      "target": "css=.tds-icon-chevron-small-90 > path",
+      "targets": [
+        ["css=.tds-icon-chevron-small-90 > path", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "5bc8c828-2b4c-44c4-8742-9f0b82377505",
+      "comment": "",
+      "command": "click",
+      "target": "css=.tds-icon-chevron-small-90",
+      "targets": [
+        ["css=.tds-icon-chevron-small-90", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "bfd8dbe9-cb14-47a9-9f2a-df18d0597a9d",
+      "comment": "",
+      "command": "click",
+      "target": "css=.tds-icon-chevron-small-90",
+      "targets": [
+        ["css=.tds-icon-chevron-small-90", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "2391a83b-802b-4cf1-a7c1-7b5b17b96401",
+      "comment": "",
+      "command": "click",
+      "target": "css=.tds-icon-chevron-small-90",
+      "targets": [
+        ["css=.tds-icon-chevron-small-90", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "26ea0929-32cb-4dbb-b8b9-e02bcd864996",
+      "comment": "",
+      "command": "click",
+      "target": "css=.tds-icon-chevron-small-90",
+      "targets": [
+        ["css=.tds-icon-chevron-small-90", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "ed576aa9-0039-4caa-8508-09f077d6589a",
+      "comment": "",
+      "command": "click",
+      "target": "css=.tds-icon-chevron-small-90",
+      "targets": [
+        ["css=.tds-icon-chevron-small-90", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "f7c49fa6-0cfc-4b3a-aa8e-48b910a02d22",
+      "comment": "",
+      "command": "click",
+      "target": "css=.tds-icon-chevron-small-90",
+      "targets": [
+        ["css=.tds-icon-chevron-small-90", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "d6fc90dc-d2a5-43ed-8767-768a3eafaad7",
+      "comment": "",
+      "command": "click",
+      "target": "css=.tds-icon-chevron-small-90",
+      "targets": [
+        ["css=.tds-icon-chevron-small-90", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "2c09c3f1-43a8-4b22-9f92-360f6be7e43e",
+      "comment": "",
+      "command": "click",
+      "target": "css=.tds-icon-chevron-small-90",
+      "targets": [
+        ["css=.tds-icon-chevron-small-90", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "959895ce-b22f-44b8-a2f7-9fce8199e4c1",
+      "comment": "",
+      "command": "click",
+      "target": "css=.tds-icon-chevron-small-90",
+      "targets": [
+        ["css=.tds-icon-chevron-small-90", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "c9beb5e3-5a83-45f4-9660-750de0d1a2c6",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "4673000e-150b-417c-8b86-8e69c09e0727",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "1e4d04fa-6b11-42f8-ab08-c1fa775e013c",
+      "comment": "",
+      "command": "click",
+      "target": "css=.tds-btn--large > span",
+      "targets": [
+        ["css=.tds-btn--large > span", "css:finder"],
+        ["xpath=//main[@id='main-content']/section/div[2]/div/div[9]/div/div/div[2]/button/span", "xpath:idRelative"],
+        ["xpath=//div[2]/button/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Continue')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "d9225529-7f06-4a10-8d7e-785865451668",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": []
+  }],
+  "urls": ["https://www.tesla.com/"],
+  "plugins": []
+}
