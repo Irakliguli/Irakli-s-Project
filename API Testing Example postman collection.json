@@ -1,1 +1,47 @@
-
+{
+    "address": {
+        "id": "6975fc97-8aea-4f0d-b98b-d200734bcb6d",
+        "fullName": {
+            "firstName": "Tom",
+            "lastName": "Anderson"
+        },
+        "company": "Matrix Company ",
+        "taxInfo": {
+            "id": null,
+            "type": null
+        },
+        "addressLine1": "5670 West Cypress Street",
+        "addressLine2": "888",
+        "street": {
+            "name": null,
+            "number": null
+        },
+        "city": "Tampa",
+        "country": "USA",
+        "subdivision": "FL",
+        "zipCode": "33607",
+        "phoneNumber": "123-456-9018",
+        "location": {
+            "latitude": 27.9519979,
+            "longitude": -82.5414955
+        }
+    },
+    "setAsDefault": true,
+    "fieldMask": {
+        "paths": [
+            "fullName.firstName",
+            "fullName.lastName",
+            "company",
+            "addressLine1",
+            "addressLine2",
+            "city",
+            "country",
+            "subdivision",
+            "zipCode",
+            "phoneNumber",
+            "location.latitude",
+            "location.longitude",
+            "setAsDefault"
+        ]
+    }
+}
