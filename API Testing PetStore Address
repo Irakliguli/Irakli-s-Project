@@ -8,3 +8,38 @@
     "phone": "2089992323",
     "userStatus": 123123
 }
+
+
+GET 
+{
+    "code": 200,
+    "type": "unknown",
+    "message": "logged in user session:1688695754985"
+}
+
+PUT 
+{
+    "id": 0,
+    "username": "Tomas1234",
+    "firstName": "Tomas Junior",
+    "lastName": "Anderson",
+    "email": "Tomas@gmail.com",
+    "password": "123123",
+    "phone": "2089992323",
+    "userStatus": 123123
+}
+DELETE 
+{
+    "code": 200,
+    "type": "unknown",
+    "message": "Tomas1234"
+}
+GET 
+{
+    "code": 1,
+    "type": "error",
+    "message": "User not found"
+}
+
+
+
